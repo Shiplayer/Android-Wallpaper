@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Wallpaper</string>
+    <string name="error">Приложение не может получить доступ к фотографиям.</string>
+    <string name="repeat">Повторить</string>
+    <string name="close">Закрыть</string>
+    <string name="title_set_wallpaper">Обои</string>
+    <string name="message_set_wallpaper">Установить обои?</string>
+    <string name="accept_wallpaper">Да</string>
 </resources>
